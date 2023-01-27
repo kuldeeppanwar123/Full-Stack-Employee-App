@@ -1,0 +1,1 @@
+This is full stack employee management application. In order to make it i used react as a frontend framework and express js as backend framework and Nodejs as a backend js runtime. I create all CRUD api's to make it fully working and allow user to perform all operations.for database here i used mongoDB.
